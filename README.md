@@ -1,4 +1,4 @@
-### AI for Deep Learning
+# AI for Deep Learning
 
 ## Goal of the course
 - Understand core ideas of deep learning algorithms
