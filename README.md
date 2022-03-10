@@ -1,1 +1,5 @@
-### AI를 위한 딥러닝
+### AI for Deep Learning
+
+## Goal of the course
+- Understand core ideas of deep learning algorithms
+- Practically implement those algorithms using python
